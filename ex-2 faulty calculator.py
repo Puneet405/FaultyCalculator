@@ -20,15 +20,5 @@ elif eq==str2:
 elif eq==str3:
     print(value3)
 else:
-    # num1 = num2 or n
     eq=eval(num1+operator+num2)
     print(eq)
-
-# faulty=[ ( ( var1 = 45 ) + (operator = *) + ( var2 = 8 ) ) , ( ( var1 = 56 ) + (operator = +) + ( var2 = 9 ) )
-
-# if (var1 or var2 ==45) and (var1 or var2==8) :
-#     if (var1 * var2) :
-#         print(555)
-#
-# elif (var1 or var2==56) and (var1 or var2==9) :
-#     if (var1 + var2 :)
